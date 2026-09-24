@@ -14,7 +14,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 🏢 Trabajo en **JACH PERU CORP SAC**
-- 📍 Vivo en **San Borja, Lima**
+- 📍 Vivo en **Santiago de Surco, Lima**
 - 🔧 Me gusta construir proyectos de punta a punta: **backend, frontend** y herramientas prácticas
 - 🌱 Actualmente aprendiendo: <!-- ✏️ Escribe aquí lo que estás aprendiendo, ej: Spring Boot, Next.js, Docker -->
 - 💬 Pregúntame sobre: <!-- ✏️ Ej: Java, TypeScript, APIs REST -->
