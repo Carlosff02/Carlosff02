@@ -1,75 +1,233 @@
-<h1 align="center">👋 Hola, soy Carlos Felipe Fernández Falcón</h1>
+# 👨‍💻 Carlos Felipe Fernández Falcón
 
-<h3 align="center">Desarrollador de software · Lima, Perú 🇵🇪</h3>
+### Full Stack Developer | Angular · Spring Boot · PostgreSQL · Docker
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlos-felipe-fern%C3%A1ndez-falc%C3%B3n-441998263/">
-    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Fern%C3%A1ndez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="left">
+  <a href="https://github.com/Carlosff02">
+    <img src="https://img.shields.io/badge/GitHub-Carlosff02-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Carlosff02&label=Visitas&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🚀 Sobre mí
 
-- 🏢 Trabajo en **JACH PERU CORP SAC**
-- 📍 Vivo en **Santiago de Surco, Lima**
-- 🔧 Me gusta construir proyectos de punta a punta: **backend, frontend** y herramientas prácticas
-- 🌱 Actualmente aprendiendo: <!-- ✏️ Escribe aquí lo que estás aprendiendo, ej: Spring Boot, Next.js, Docker -->
-- 💬 Pregúntame sobre: <!-- ✏️ Ej: Java, TypeScript, APIs REST -->
-- 📫 Contáctame por [LinkedIn](https://www.linkedin.com/in/carlos-felipe-fern%C3%A1ndez-falc%C3%B3n-441998263/)
+Soy desarrollador **Full Stack** enfocado en la construcción de aplicaciones web y sistemas empresariales.
+
+Actualmente trabajo principalmente con:
+
+* 🅰️ **Angular**
+* ☕ **Java & Spring Boot**
+* 🗄️ **PostgreSQL**
+* 🐳 **Docker**
+* 🔐 **Spring Security**
+* 🏗️ **Microservicios y arquitectura de software**
+
+Me interesa especialmente transformar problemas reales en soluciones de software **mantenibles, escalables y fáciles de utilizar**.
 
 ---
 
-## 🛠️ Tecnologías
+## 💻 Mi Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,html,css,git,github&theme=dark" alt="Stack tecnológico" />
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind" />
 </p>
 
-<!-- ✏️ Agrega aquí lo que uses: spring, react, angular, nodejs, mysql, postgres, docker, etc.
-     Lista completa de iconos: https://skillicons.dev -->
+* Angular
+* TypeScript
+* JavaScript
+* HTML5 / CSS3
+* Tailwind CSS
+* Angular Material
+* RxJS
 
----
+</td>
 
-## 🚀 Proyectos destacados
+<td valign="top" width="50%">
 
-| Proyecto | Descripción | Tecnología |
-|----------|-------------|------------|
-| [🏢 BackendKaikan](https://github.com/Carlosff02/BackendKaikan) | Backend del proyecto Kaikan | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [🎨 FrontendKaikan](https://github.com/Carlosff02/FrontendKaikan) | Interfaz web del proyecto Kaikan | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [⚡ CalculadoraElectronica](https://github.com/Carlosff02/CalculadoraElectronica) | Calculadora para cálculos de electrónica | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [🎮 RoleplayGame](https://github.com/Carlosff02/RoleplayGame) | Juego de rol | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [🛗 AscensorFisica](https://github.com/Carlosff02/AscensorFisica) | Simulación de un ascensor para física | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
-| [⏰ RelojAutomatico](https://github.com/Carlosff02/RelojAutomatico) | Reloj automático | <!-- ✏️ tecnología --> |
-
-<!-- ✏️ Consejo: agrega una descripción más específica a cada proyecto (qué problema resuelve, qué hace). -->
-
----
-
-## 📊 Estadísticas de GitHub
+### ⚙️ Backend
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlosff02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Carlos" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosff02&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,python" />
+</p>
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* REST APIs
+* Microservicios
+* OpenFeign
+* C#
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🗄️ Bases de datos
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+* PostgreSQL
+* SQL
+* JSONB
+* Índices y optimización
+
+</td>
+
+<td valign="top">
+
+### 🛠️ DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,vscode,idea" />
+</p>
+
+* Docker
+* Linux
+* Git
+* GitHub
+* Maven
+* IntelliJ IDEA
+* VS Code
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔥 Proyectos destacados
+
+## 📄 JACH-DOCS
+
+Sistema empresarial para **digitalización, indexación y procesamiento de documentos**.
+
+### Tecnologías
+
+`Angular` `Spring Boot` `PostgreSQL` `Docker` `OCR`
+
+### Características
+
+* 📑 Gestión y procesamiento de documentos
+* 🔎 Indexación de información
+* 🧠 Procesamiento OCR
+* ✅ Control de calidad
+* 🔐 Control de acceso mediante roles
+* 📊 Procesamiento de grandes volúmenes de información
+* 🗂️ Gestión de lotes y documentos
+* 📤 Exportación de información
+
+> Proyecto enfocado en resolver procesos reales de gestión documental y procesamiento masivo de información.
+
+---
+
+## 🏢 BackendKaikan
+
+Backend desarrollado con **Java y Spring Boot**, utilizando una arquitectura orientada a servicios.
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `Docker`
+
+🔗 [Ver repositorio](https://github.com/Carlosff02/BackendKaikan)
+
+---
+
+## 🎨 FrontendKaikan
+
+Aplicación frontend desarrollada con **Angular y TypeScript** para consumir los servicios del backend.
+
+**Stack:** `Angular` `TypeScript`
+
+---
+
+# 📈 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlosff02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosff02&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎯 Actualmente trabajando en
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🅰️ Angular                                                │
+│  ☕ Spring Boot                                             │
+│  🗄️ PostgreSQL                                              │
+│  🏗️ Arquitectura de software                               │
+│  🐳 Docker                                                  │
+│  🐧 Linux & DevOps                                          │
+│  🔐 Seguridad y autenticación                               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌱 En constante aprendizaje
+
+```text
+Java / Spring Boot
+        ↓
+Arquitectura de software
+        ↓
+Microservicios
+        ↓
+Docker & DevOps
+        ↓
+Linux
+        ↓
+Cloud & Infrastructure
+```
+
+Mi objetivo es seguir evolucionando desde el desarrollo de aplicaciones hacia una visión más completa de **arquitectura, infraestructura y sistemas distribuidos**.
+
+---
+
+# 📫 Conecta conmigo
+
+<p align="center">
+
+<a href="https://github.com/Carlosff02">
+<img src="https://img.shields.io/badge/GitHub-Carlosff02-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Build. Learn. Improve. Repeat.</b>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosff02&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
----
-
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" alt="YOLO" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Si algún proyecto te sirvió, dale una estrella. ¡Gracias por pasar por aquí!
+  ⭐ Thanks for visiting my profile!
 </p>
