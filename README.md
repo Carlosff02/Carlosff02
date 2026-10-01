@@ -164,8 +164,12 @@ Aplicación frontend desarrollada con **Angular y TypeScript** para consumir los
 
 # 🐍 Contributions
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
