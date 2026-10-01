@@ -39,7 +39,7 @@ Me interesa especialmente transformar problemas reales en soluciones de software
 ### 🎨 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind" />
 </p>
 
 * Angular
@@ -57,7 +57,7 @@ Me interesa especialmente transformar problemas reales en soluciones de software
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,cs,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,python" />
 </p>
 
 * Java
@@ -78,7 +78,7 @@ Me interesa especialmente transformar problemas reales en soluciones de software
 ### 🗄️ Bases de datos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 * PostgreSQL
@@ -93,7 +93,7 @@ Me interesa especialmente transformar problemas reales en soluciones de software
 ### 🛠️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,vscode,idea" />
 </p>
 
 * Docker
@@ -164,12 +164,26 @@ Aplicación frontend desarrollada con **Angular y TypeScript** para consumir los
 
 # 🐍 Contributions
 
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake-dark.svg"
+    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/Carlosff02/Carlosff02/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+```
+
+  </picture>
 </p>
 
 ---
@@ -217,11 +231,11 @@ Mi objetivo es seguir evolucionando desde el desarrollo de aplicaciones hacia un
 <p align="center">
 
 <a href="https://github.com/Carlosff02">
-<img src="https://img.shields.io/badge/GitHub-Carlosff02-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Carlosff02-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
